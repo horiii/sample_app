@@ -9,6 +9,8 @@
 /log/*.log
 /tmp
 
+.ruby-version
+
 # Ignore other unneeded files.
 doc/
 *.swp
